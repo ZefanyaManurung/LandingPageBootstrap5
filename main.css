@@ -1,0 +1,63 @@
+.hero {
+    background-color:#2B323F; 
+    padding-top: 7rem;
+    color:aliceblue
+}
+.article1 p{
+    text-align: justify;
+    margin-left: 2rem;
+    margin-right:2rem
+}
+
+.hero h1{
+    margin-top: 15px;
+}
+
+#project{
+    background-color: #252525;
+}
+
+#project .col h2{
+    color: white;
+    padding-top: 2rem;
+}
+
+#project .col-md-4{
+    margin-bottom: 15px;
+}
+
+#contact{
+    padding-top: 4rem;
+    padding-bottom: 15px;
+}
+
+footer{
+    background-color: #2B323F;
+    margin: 0 auto;
+    padding-top: 60px;   
+}
+
+footer h6{
+    padding-top:35px;
+    margin-bottom: 0px;
+}
+
+footer p{
+    padding-bottom: 10px;
+}
+
+footer a{
+    color: #00b0ff;
+    height: 40px;
+    width: 40px;
+    display: inline-block;
+    text-align: center;
+    line-height: 40px;
+    font-size: 36px;
+    transition: .3s;
+    margin:5px;
+}
+
+section{
+    padding-top: 3rem;
+}
